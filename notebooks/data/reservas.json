@@ -1,0 +1,416 @@
+[
+  {
+    "reserva_id": 1,
+    "usuario_id": 1,
+    "destino_id": 2,
+    "fecha_reserva": "2024-07-01",
+    "estado": "Confirmada",
+    "precio_total": 150000,
+    "actividades_ids": [14, 15]
+  },
+  {
+    "reserva_id": 2,
+    "usuario_id": 2,
+    "destino_id": 1,
+    "fecha_reserva": "2024-06-15",
+    "estado": "Confirmada",
+    "precio_total": 90000,
+    "actividades_ids": [11, 12]
+  },
+  {
+    "reserva_id": 3,
+    "usuario_id": 3,
+    "destino_id": 3,
+    "fecha_reserva": "2026-05-20",
+    "estado": "Pendiente",
+    "precio_total": 110000
+  },
+  {
+    "reserva_id": 4,
+    "usuario_id": 1,
+    "destino_id": 4,
+    "fecha_reserva": "2026-07-10",
+    "estado": "Pendiente",
+    "precio_total": 100000,
+    "actividades_ids": [21, 22]
+  },
+  {
+    "reserva_id": 5,
+    "usuario_id": 5,
+    "destino_id": 5,
+    "fecha_reserva": "2024-06-25",
+    "estado": "Confirmada",
+    "precio_total": 80000
+  },
+  {
+    "reserva_id": 6,
+    "usuario_id": 6,
+    "destino_id": 6,
+    "fecha_reserva": "2024-08-01",
+    "estado": "Confirmada",
+    "precio_total": 120000,
+    "actividades_ids": [17, 18]
+  },
+  {
+    "reserva_id": 7,
+    "usuario_id": 7,
+    "destino_id": 7,
+    "fecha_reserva": "2024-09-10",
+    "estado": "Confirmada",
+    "precio_total": 75000
+  },
+  {
+    "reserva_id": 8,
+    "usuario_id": 8,
+    "destino_id": 8,
+    "fecha_reserva": "2024-10-05",
+    "estado": "Confirmada",
+    "precio_total": 70000
+  },
+  {
+    "reserva_id": 9,
+    "usuario_id": 9,
+    "destino_id": 9,
+    "fecha_reserva": "2024-11-20",
+    "estado": "Confirmada",
+    "precio_total": 130000
+  },
+  {
+    "reserva_id": 10,
+    "usuario_id": 10,
+    "destino_id": 10,
+    "fecha_reserva": "2024-12-15",
+    "estado": "Confirmada",
+    "precio_total": 180000
+  },
+  {
+    "reserva_id": 11,
+    "usuario_id": 11,
+    "destino_id": 1,
+    "fecha_reserva": "2024-01-01",
+    "estado": "Confirmada",
+    "precio_total": 90000,
+    "actividades_ids": [11, 12]
+  },
+  {
+    "reserva_id": 12,
+    "usuario_id": 12,
+    "destino_id": 11,
+    "fecha_reserva": "2024-02-28",
+    "estado": "Confirmada",
+    "precio_total": 135000
+  },
+  {
+    "reserva_id": 13,
+    "usuario_id": 13,
+    "destino_id": 12,
+    "fecha_reserva": "2026-03-10",
+    "estado": "Pendiente",
+    "precio_total": 95000
+  },
+  {
+    "reserva_id": 14,
+    "usuario_id": 14,
+    "destino_id": 13,
+    "fecha_reserva": "2026-04-05",
+    "estado": "Confirmada",
+    "precio_total": 250000
+  },
+  {
+    "reserva_id": 15,
+    "usuario_id": 10,
+    "destino_id": 14,
+    "fecha_reserva": "2024-05-15",
+    "estado": "Confirmada",
+    "precio_total": 65000
+  },
+  {
+    "reserva_id": 16,
+    "usuario_id": 12,
+    "destino_id": 15,
+    "fecha_reserva": "2024-06-01",
+    "estado": "Cancelada",
+    "precio_total": 80000
+  },
+  {
+    "reserva_id": 17,
+    "usuario_id": 16,
+    "destino_id": 6,
+    "fecha_reserva": "2024-07-20",
+    "estado": "Confirmada",
+    "precio_total": 120000,
+    "actividades_ids": [17, 18]
+  },
+  {
+    "reserva_id": 18,
+    "usuario_id": 18,
+    "destino_id": 7,
+    "fecha_reserva": "2024-08-25",
+    "estado": "Confirmada",
+    "precio_total": 75000
+  },
+  {
+    "reserva_id": 19,
+    "usuario_id": 20,
+    "destino_id": 8,
+    "fecha_reserva": "2026-09-05",
+    "estado": "Pendiente",
+    "precio_total": 70000
+  },
+  {
+    "reserva_id": 20,
+    "usuario_id": 20,
+    "destino_id": 9,
+    "fecha_reserva": "2026-10-10",
+    "estado": "Pendiente",
+    "precio_total": 130000
+  },
+  {
+    "reserva_id": 21,
+    "usuario_id": 20,
+    "destino_id": 10,
+    "fecha_reserva": "2024-11-01",
+    "estado": "Confirmada",
+    "precio_total": 180000
+  },
+  {
+    "reserva_id": 22,
+    "usuario_id": 20,
+    "destino_id": 11,
+    "fecha_reserva": "2024-12-12",
+    "estado": "Cancelada",
+    "precio_total": 135000
+  },
+  {
+    "reserva_id": 23,
+    "usuario_id": 20,
+    "destino_id": 12,
+    "fecha_reserva": "2025-01-15",
+    "estado": "Confirmada",
+    "precio_total": 95000
+  },
+  {
+    "reserva_id": 24,
+    "usuario_id": 24,
+    "destino_id": 13,
+    "fecha_reserva": "2025-02-20",
+    "estado": "Cancelada",
+    "precio_total": 250000
+  },
+  {
+    "reserva_id": 25,
+    "usuario_id": 25,
+    "destino_id": 14,
+    "fecha_reserva": "2025-03-01",
+    "estado": "Confirmada",
+    "precio_total": 65000
+  },
+  {
+    "reserva_id": 26,
+    "usuario_id": 26,
+    "destino_id": 15,
+    "fecha_reserva": "2025-04-05",
+    "estado": "Confirmada",
+    "precio_total": 80000
+  },
+  {
+    "reserva_id": 27,
+    "usuario_id": 27,
+    "destino_id": 1,
+    "fecha_reserva": "2026-05-10",
+    "estado": "Pendiente",
+    "precio_total": 90000,
+    "actividades_ids": [11, 12]
+  },
+  {
+    "reserva_id": 28,
+    "usuario_id": 28,
+    "destino_id": 2,
+    "fecha_reserva": "2026-06-15",
+    "estado": "Pendiente",
+    "precio_total": 150000,
+    "actividades_ids": [14, 15]
+  },
+  {
+    "reserva_id": 29,
+    "usuario_id": 15,
+    "destino_id": 3,
+    "fecha_reserva": "2025-07-20",
+    "estado": "Confirmada",
+    "precio_total": 110000
+  },
+  {
+    "reserva_id": 30,
+    "usuario_id": 30,
+    "destino_id": 4,
+    "fecha_reserva": "2025-08-01",
+    "estado": "Cancelada",
+    "precio_total": 100000,
+    "actividades_ids": [21, 22]
+  },
+  {
+    "reserva_id": 31,
+    "usuario_id": 31,
+    "destino_id": 5,
+    "fecha_reserva": "2025-09-10",
+    "estado": "Confirmada",
+    "precio_total": 80000
+  },
+  {
+    "reserva_id": 32,
+    "usuario_id": 32,
+    "destino_id": 6,
+    "fecha_reserva": "2025-10-15",
+    "estado": "Confirmada",
+    "precio_total": 120000,
+    "actividades_ids": [17, 18]
+  },
+  {
+    "reserva_id": 33,
+    "usuario_id": 33,
+    "destino_id": 7,
+    "fecha_reserva": "2026-11-20",
+    "estado": "Pendiente",
+    "precio_total": 75000
+  },
+  {
+    "reserva_id": 34,
+    "usuario_id": 34,
+    "destino_id": 8,
+    "fecha_reserva": "2025-12-05",
+    "estado": "Confirmada",
+    "precio_total": 70000
+  },
+  {
+    "reserva_id": 35,
+    "usuario_id": 40,
+    "destino_id": 9,
+    "fecha_reserva": "2025-01-10",
+    "estado": "Confirmada",
+    "precio_total": 130000
+  },
+  {
+    "reserva_id": 36,
+    "usuario_id": 36,
+    "destino_id": 10,
+    "fecha_reserva": "2025-02-15",
+    "estado": "Confirmada",
+    "precio_total": 180000
+  },
+  {
+    "reserva_id": 37,
+    "usuario_id": 37,
+    "destino_id": 11,
+    "fecha_reserva": "2026-03-20",
+    "estado": "Pendiente",
+    "precio_total": 135000
+  },
+  {
+    "reserva_id": 38,
+    "usuario_id": 38,
+    "destino_id": 12,
+    "fecha_reserva": "2026-04-25",
+    "estado": "Pendiente",
+    "precio_total": 95000
+  },
+  {
+    "reserva_id": 39,
+    "usuario_id": 39,
+    "destino_id": 13,
+    "fecha_reserva": "2025-05-30",
+    "estado": "Confirmada",
+    "precio_total": 250000
+  },
+  {
+    "reserva_id": 40,
+    "usuario_id": 40,
+    "destino_id": 14,
+    "fecha_reserva": "2025-06-10",
+    "estado": "Confirmada",
+    "precio_total": 65000
+  },
+  {
+    "reserva_id": 41,
+    "usuario_id": 3,
+    "destino_id": 15,
+    "fecha_reserva": "2025-07-15",
+    "estado": "Confirmada",
+    "precio_total": 80000
+  },
+  {
+    "reserva_id": 42,
+    "usuario_id": 42,
+    "destino_id": 1,
+    "fecha_reserva": "2026-08-20",
+    "estado": "Pendiente",
+    "precio_total": 90000,
+    "actividades_ids": [11, 12]
+  },
+  {
+    "reserva_id": 43,
+    "usuario_id": 43,
+    "destino_id": 2,
+    "fecha_reserva": "2025-09-25",
+    "estado": "Confirmada",
+    "precio_total": 150000,
+    "actividades_ids": [14, 15]
+  },
+  {
+    "reserva_id": 44,
+    "usuario_id": 2,
+    "destino_id": 3,
+    "fecha_reserva": "2026-10-30",
+    "estado": "Pendiente",
+    "precio_total": 110000
+  },
+  {
+    "reserva_id": 45,
+    "usuario_id": 45,
+    "destino_id": 4,
+    "fecha_reserva": "2025-11-15",
+    "estado": "Confirmada",
+    "precio_total": 100000,
+    "actividades_ids": [21, 22]
+  },
+  {
+    "reserva_id": 46,
+    "usuario_id": 1,
+    "destino_id": 5,
+    "fecha_reserva": "2025-12-20",
+    "estado": "Confirmada",
+    "precio_total": 80000
+  },
+  {
+    "reserva_id": 47,
+    "usuario_id": 21,
+    "destino_id": 6,
+    "fecha_reserva": "2025-01-25",
+    "estado": "Confirmada",
+    "precio_total": 120000,
+    "actividades_ids": [17, 18]
+  },
+  {
+    "reserva_id": 48,
+    "usuario_id": 45,
+    "destino_id": 7,
+    "fecha_reserva": "2026-02-10",
+    "estado": "Pendiente",
+    "precio_total": 75000
+  },
+  {
+    "reserva_id": 49,
+    "usuario_id": 22,
+    "destino_id": 8,
+    "fecha_reserva": "2025-03-15",
+    "estado": "Confirmada",
+    "precio_total": 70000
+  },
+  {
+    "reserva_id": 50,
+    "usuario_id": 25,
+    "destino_id": 9,
+    "fecha_reserva": "2025-04-20",
+    "estado": "Confirmada",
+    "precio_total": 130000
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {"destino_id": 1, "ciudad": "Bariloche", "pais": "Argentina", "tipo": "Montaña", "precio_base": 90000},
+  {"destino_id": 2, "ciudad": "Cancún", "pais": "México", "tipo": "Playa", "precio_base": 150000},
+  {"destino_id": 3, "ciudad": "Madrid", "pais": "España", "tipo": "Cultural", "precio_base": 110000},
+  {"destino_id": 4, "ciudad": "Roma", "pais": "Italia", "tipo": "Histórico", "precio_base": 100000},
+  {"destino_id": 5, "ciudad": "Mendoza", "pais": "Argentina", "tipo": "Vinos", "precio_base": 80000},
+  {"destino_id": 6, "ciudad": "Ushuaia", "pais": "Argentina", "tipo": "Glaciares", "precio_base": 120000},
+  {"destino_id": 7, "ciudad": "Puerto Iguazú", "pais": "Argentina", "tipo": "Naturaleza", "precio_base": 75000},
+  {"destino_id": 8, "ciudad": "Salta", "pais": "Argentina", "tipo": "Cultural", "precio_base": 70000},
+  {"destino_id": 9, "ciudad": "Río de Janeiro", "pais": "Brasil", "tipo": "Playa", "precio_base": 130000},
+  {"destino_id": 10, "ciudad": "Punta Cana", "pais": "Rep. Dominicana", "tipo": "Playa", "precio_base": 180000},
+  {"destino_id": 11, "ciudad": "El Calafate", "pais": "Argentina", "tipo": "Glaciares", "precio_base": 135000},
+  {"destino_id": 12, "ciudad": "Santiago", "pais": "Chile", "tipo": "Urbano", "precio_base": 95000},
+  {"destino_id": 13, "ciudad": "Nueva York", "pais": "EE. UU.", "tipo": "Urbano", "precio_base": 250000},
+  {"destino_id": 14, "ciudad": "Tucumán", "pais": "Argentina", "tipo": "Histórico", "precio_base": 65000},
+  {"destino_id": 15, "ciudad": "Mar del Plata", "pais": "Argentina", "tipo": "Playa", "precio_base": 80000}
+]

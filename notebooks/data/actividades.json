@@ -1,0 +1,156 @@
+[
+    {
+        "actividad_id": 1,
+        "nombre": "Trekking Cerro Catedral",
+        "tipo": "aventura",
+        "ciudad": "Bariloche",
+        "precio": 45000
+    },
+    {
+        "actividad_id": 2,
+        "nombre": "Degustación de vinos Premium",
+        "tipo": "cultura",
+        "ciudad": "Mendoza",
+        "precio": 35000
+    },
+    {
+        "actividad_id": 3,
+        "nombre": "Tour por Quebrada de Humahuaca",
+        "tipo": "cultura",
+        "ciudad": "Salta",
+        "precio": 25000
+    },
+    {
+        "actividad_id": 4,
+        "nombre": "Navegación Canal Beagle",
+        "tipo": "aventura",
+        "ciudad": "Ushuaia",
+        "precio": 55000
+    },
+    {
+        "actividad_id": 5,
+        "nombre": "Excursión a Glaciar Perito Moreno",
+        "tipo": "aventura",
+        "ciudad": "El Calafate",
+        "precio": 60000
+    },
+    {
+        "actividad_id": 6,
+        "nombre": "Visita ruinas de San Ignacio",
+        "tipo": "histórico",
+        "ciudad": "Puerto Iguazú",
+        "precio": 15000
+    },
+    {
+        "actividad_id": 7,
+        "nombre": "Clase de Samba",
+        "tipo": "cultura",
+        "ciudad": "Río de Janeiro",
+        "precio": 20000
+    },
+    {
+        "actividad_id": 8,
+        "nombre": "Tour Vaticano y Coliseo",
+        "tipo": "histórico",
+        "ciudad": "Roma",
+        "precio": 50000
+    },
+    {
+        "actividad_id": 9,
+        "nombre": "Paseo por Playa Grande",
+        "tipo": "playa",
+        "ciudad": "Mar del Plata",
+        "precio": 10000
+    },
+    {
+        "actividad_id": 10,
+        "nombre": "City Tour Histórico",
+        "tipo": "histórico",
+        "ciudad": "Tucumán",
+        "precio": 12000
+    },
+    {
+        "actividad_id": 11,
+        "nombre": "Excursión Circuito Chico",
+        "tipo": "cultura",
+        "ciudad": "Bariloche",
+        "precio": 30000
+    },
+    {
+        "actividad_id": 12,
+        "nombre": "Clase de Esquí en Cerro Catedral",
+        "tipo": "aventura",
+        "ciudad": "Bariloche",
+        "precio": 85000
+    },
+    {
+        "actividad_id": 13,
+        "nombre": "Rafting de aguas bravas en Río Manso",
+        "tipo": "aventura",
+        "ciudad": "Bariloche",
+        "precio": 65000
+    },
+    {
+        "actividad_id": 14,
+        "nombre": "Visita Guiada a Chichén Itzá",
+        "tipo": "histórico",
+        "ciudad": "Cancún",
+        "precio": 55000
+    },
+    {
+        "actividad_id": 15,
+        "nombre": "Snorkel en Isla Mujeres",
+        "tipo": "playa",
+        "ciudad": "Cancún",
+        "precio": 40000
+    },
+    {
+        "actividad_id": 16,
+        "nombre": "Nado con delfines",
+        "tipo": "aventura",
+        "ciudad": "Cancún",
+        "precio": 70000
+    },
+    {
+        "actividad_id": 17,
+        "nombre": "Tren del Fin del Mundo",
+        "tipo": "histórico",
+        "ciudad": "Ushuaia",
+        "precio": 40000
+    },
+    {
+        "actividad_id": 18,
+        "nombre": "Trekking a Laguna Esmeralda",
+        "tipo": "aventura",
+        "ciudad": "Ushuaia",
+        "precio": 35000
+    },
+    {
+        "actividad_id": 19,
+        "nombre": "Navegación Canal Beagle (Faro Les Éclaireurs)",
+        "tipo": "aventura",
+        "ciudad": "Ushuaia",
+        "precio": 55000
+    },
+    {
+        "actividad_id": 20,
+        "nombre": "Clase de cocina de pasta y tiramisú",
+        "tipo": "cultura",
+        "ciudad": "Roma",
+        "precio": 48000
+    },
+    {
+        "actividad_id": 21,
+        "nombre": "Visita guiada al Coliseo y Foro Romano",
+        "tipo": "histórico",
+        "ciudad": "Roma",
+        "precio": 50000
+    },
+    {
+        "actividad_id": 22,
+        "nombre": "Tour privado por la Ciudad del Vaticano y Museos",
+        "tipo": "cultura",
+        "ciudad": "Roma",
+        "precio": 65000
+    }
+]
