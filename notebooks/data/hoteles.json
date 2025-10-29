@@ -292,5 +292,42 @@
     "precio": 110000,
     "calificacion": 4,
     "servicios": ["frente al mar", "spa", "casino"]
+  },
+  {
+    "hotel_id": 40,
+    "nombre": "Manantial del Silencio",
+    "destino_id": 16,
+    "precio": 155000,
+    "calificacion": 5,
+    "servicios": [
+      "spa",
+      "pileta exterior",
+      "restaurante gourmet",
+      "vista a cerro de los siete colores"
+    ]
+  },
+  {
+    "hotel_id": 41,
+    "nombre": "Hotel Altos de La Viña",
+    "destino_id": 16,
+    "precio": 88000,
+    "calificacion": 4,
+    "servicios": [
+      "wifi",
+      "desayuno buffet",
+      "estacionamiento"
+    ]
+  },
+  {
+    "hotel_id": 42,
+    "nombre": "Gran Hotel Jujuy",
+    "destino_id": 16,
+    "precio": 65000,
+    "calificacion": 3,
+    "servicios": [
+      "wifi",
+      "bar",
+      "ubicación central"
+    ]
   }
 ]

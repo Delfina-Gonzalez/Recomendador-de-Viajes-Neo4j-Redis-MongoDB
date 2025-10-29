@@ -13,5 +13,6 @@
   {"destino_id": 12, "ciudad": "Santiago", "pais": "Chile", "tipo": "Urbano", "precio_base": 95000},
   {"destino_id": 13, "ciudad": "Nueva York", "pais": "EE. UU.", "tipo": "Urbano", "precio_base": 250000},
   {"destino_id": 14, "ciudad": "Tucumán", "pais": "Argentina", "tipo": "Histórico", "precio_base": 65000},
-  {"destino_id": 15, "ciudad": "Mar del Plata", "pais": "Argentina", "tipo": "Playa", "precio_base": 80000}
+  {"destino_id": 15, "ciudad": "Mar del Plata", "pais": "Argentina", "tipo": "Playa", "precio_base": 80000},
+  {"destino_id": 16, "ciudad": "San Salvador de Jujuy", "pais": "Argentina", "tipo": "Cultural", "precio_base": 56000}
 ]
