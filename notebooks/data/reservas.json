@@ -332,7 +332,7 @@
   {
     "reserva_id": 41,
     "usuario_id": 3,
-    "destino_id": 15,
+    "destino_id": 1,
     "fecha_reserva": "2025-07-15",
     "estado": "Confirmada",
     "precio_total": 80000
@@ -358,7 +358,7 @@
   {
     "reserva_id": 44,
     "usuario_id": 2,
-    "destino_id": 3,
+    "destino_id": 4,
     "fecha_reserva": "2026-10-30",
     "estado": "Pendiente",
     "precio_total": 110000
@@ -375,7 +375,7 @@
   {
     "reserva_id": 46,
     "usuario_id": 1,
-    "destino_id": 5,
+    "destino_id": 1,
     "fecha_reserva": "2025-12-20",
     "estado": "Confirmada",
     "precio_total": 80000

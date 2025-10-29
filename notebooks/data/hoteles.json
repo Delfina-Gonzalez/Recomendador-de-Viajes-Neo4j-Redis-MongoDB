@@ -5,11 +5,7 @@
     "destino_id": 1,
     "precio": 85000,
     "calificacion": 4,
-    "servicios": [
-      "wifi",
-      "pileta",
-      "desayuno"
-    ]
+    "servicios": ["wifi", "pileta", "desayuno"]
   },
   {
     "hotel_id": 2,
@@ -17,157 +13,7 @@
     "destino_id": 1,
     "precio": 120000,
     "calificacion": 5,
-    "servicios": [
-      "wifi",
-      "spa",
-      "pileta"
-    ]
-  },
-  {
-    "hotel_id": 3,
-    "nombre": "Altos del Norte",
-    "destino_id": 8,
-    "precio": 60000,
-    "calificacion": 3,
-    "servicios": [
-      "wifi"
-    ]
-  },
-  {
-    "hotel_id": 4,
-    "nombre": "Montaña Real",
-    "destino_id": 5,
-    "precio": 95000,
-    "calificacion": 4,
-    "servicios": [
-      "wifi",
-      "pileta"
-    ]
-  },
-  {
-    "hotel_id": 5,
-    "nombre": "Estancia Colonial",
-    "destino_id": 14,
-    "precio": 70000,
-    "calificacion": 4,
-    "servicios": [
-      "wifi",
-      "desayuno"
-    ]
-  },
-  {
-    "hotel_id": 6,
-    "nombre": "Glaciares Sur",
-    "destino_id": 11,
-    "precio": 140000,
-    "calificacion": 5,
-    "servicios": [
-      "wifi",
-      "spa",
-      "bar"
-    ]
-  },
-  {
-    "hotel_id": 7,
-    "nombre": "Cataratas Palace",
-    "destino_id": 7,
-    "precio": 110000,
-    "calificacion": 4,
-    "servicios": [
-      "wifi",
-      "pileta",
-      "desayuno"
-    ]
-  },
-  {
-    "hotel_id": 8,
-    "nombre": "Playa Sol",
-    "destino_id": 9,
-    "precio": 135000,
-    "calificacion": 4,
-    "servicios": [
-      "wifi",
-      "frente al mar"
-    ]
-  },
-  {
-    "hotel_id": 9,
-    "nombre": "Resort Coral",
-    "destino_id": 10,
-    "precio": 250000,
-    "calificacion": 5,
-    "servicios": [
-      "todo incluido",
-      "playa privada"
-    ]
-  },
-  {
-    "hotel_id": 10,
-    "nombre": "Hotel Italia",
-    "destino_id": 4,
-    "precio": 90000,
-    "calificacion": 3,
-    "servicios": [
-      "wifi",
-      "desayuno"
-    ]
-  },
-  {
-    "hotel_id": 11,
-    "nombre": "Gran Plaza",
-    "destino_id": 3,
-    "precio": 150000,
-    "calificacion": 5,
-    "servicios": [
-      "wifi",
-      "gimnasio",
-      "business center"
-    ]
-  },
-  {
-    "hotel_id": 12,
-    "nombre": "Hotel del Fin",
-    "destino_id": 6,
-    "precio": 115000,
-    "calificacion": 4,
-    "servicios": [
-      "wifi",
-      "desayuno",
-      "vista al canal"
-    ]
-  },
-  {
-    "hotel_id": 13,
-    "nombre": "Hotel Cancún",
-    "destino_id": 2,
-    "precio": 180000,
-    "calificacion": 4,
-    "servicios": [
-      "todo incluido",
-      "pileta"
-    ]
-  },
-  {
-    "hotel_id": 14,
-    "nombre": "Hotel Mar",
-    "destino_id": 15,
-    "precio": 75000,
-    "calificacion": 3,
-    "servicios": [
-      "wifi",
-      "desayuno"
-    ]
-  },
-  {
-    "hotel_id": 15,
-    "nombre": "Andes View",
-    "destino_id": 12,
-    "precio": 88000,
-    "calificacion": 4,
-    "servicios": [
-      "wifi",
-      "gimnasio"
-    ]
+    "servicios": ["wifi", "spa", "pileta"]
   },
   {
     "hotel_id": 16,
@@ -175,62 +21,16 @@
     "destino_id": 1,
     "precio": 350000,
     "calificacion": 5,
-    "servicios": [
-      "spa",
-      "golf",
-      "pileta climatizada",
-      "vista panorámica"
-    ]
+    "servicios": ["spa", "golf", "pileta climatizada"]
   },
+
   {
-    "hotel_id": 17,
-    "nombre": "Hotel Sol",
-    "destino_id": 1,
-    "precio": 85000,
-    "calificacion": 4,
-    "servicios": [
-      "wifi",
-      "pileta",
-      "desayuno",
-      "spa"
-    ]
-  },
-  {
-    "hotel_id": 18,
-    "nombre": "Cacique Inacayal",
-    "destino_id": 1,
+    "hotel_id": 13,
+    "nombre": "Hotel Cancún",
+    "destino_id": 2,
     "precio": 180000,
     "calificacion": 4,
-    "servicios": [
-      "spa",
-      "restaurante gourmet",
-      "frente al lago"
-    ]
-  },
-  {
-    "hotel_id": 17,
-    "nombre": "Hotel Sol",
-    "destino_id": 1,
-    "precio": 85000,
-    "calificacion": 4,
-    "servicios": [
-      "wifi",
-      "pileta",
-      "desayuno",
-      "spa"
-    ]
-  },
-  {
-    "hotel_id": 18,
-    "nombre": "Cacique Inacayal",
-    "destino_id": 1,
-    "precio": 180000,
-    "calificacion": 4,
-    "servicios": [
-      "spa",
-      "restaurante gourmet",
-      "frente al lago"
-    ]
+    "servicios": ["todo incluido", "pileta"]
   },
   {
     "hotel_id": 19,
@@ -238,11 +38,7 @@
     "destino_id": 2,
     "precio": 450000,
     "calificacion": 5,
-    "servicios": [
-      "todo incluido",
-      "playa privada",
-      "varios restaurantes"
-    ]
+    "servicios": ["todo incluido", "playa privada", "varios restaurantes"]
   },
   {
     "hotel_id": 20,
@@ -250,11 +46,7 @@
     "destino_id": 2,
     "precio": 280000,
     "calificacion": 4,
-    "servicios": [
-      "todo incluido",
-      "shows nocturnos",
-      "acceso a discoteca"
-    ]
+    "servicios": ["todo incluido", "shows nocturnos", "acceso a discoteca"]
   },
   {
     "hotel_id": 21,
@@ -262,48 +54,33 @@
     "destino_id": 2,
     "precio": 180000,
     "calificacion": 4,
-    "servicios": [
-      "acceso a playa",
-      "pileta",
-      "apartamentos"
-    ]
+    "servicios": ["acceso a playa", "pileta", "apartamentos"]
   },
+  
   {
-    "hotel_id": 22,
-    "nombre": "Arakur Ushuaia Resort",
-    "destino_id": 6,
-    "precio": 220000,
+    "hotel_id": 11,
+    "nombre": "Gran Plaza",
+    "destino_id": 3,
+    "precio": 150000,
     "calificacion": 5,
-    "servicios": [
-      "spa",
-      "pileta infinity",
-      "vistas panorámicas",
-      "gourmet"
-    ]
+    "servicios": ["wifi", "gimnasio", "business center"]
   },
   {
-    "hotel_id": 23,
-    "nombre": "Hotel del Fin",
-    "destino_id": 6,
-    "precio": 115000,
-    "calificacion": 4,
-    "servicios": [
-      "wifi",
-      "desayuno",
-      "vista al canal"
-    ]
+    "hotel_id": 28,
+    "nombre": "Hostal Las Letras",
+    "destino_id": 3,
+    "precio": 75000,
+    "calificacion": 3,
+    "servicios": ["wifi", "desayuno"]
   },
+
   {
-    "hotel_id": 24,
-    "nombre": "Cilene del Fuego Suites",
-    "destino_id": 6,
-    "precio": 145000,
-    "calificacion": 4,
-    "servicios": [
-      "suites con cocina",
-      "gimnasio",
-      "jacuzzi"
-    ]
+    "hotel_id": 10,
+    "nombre": "Hotel Italia",
+    "destino_id": 4,
+    "precio": 90000,
+    "calificacion": 3,
+    "servicios": ["wifi", "desayuno"]
   },
   {
     "hotel_id": 25,
@@ -311,11 +88,7 @@
     "destino_id": 4,
     "precio": 500000,
     "calificacion": 5,
-    "servicios": [
-      "mayordomo",
-      "gourmet",
-      "spa de lujo"
-    ]
+    "servicios": ["mayordomo", "gourmet", "spa de lujo"]
   },
   {
     "hotel_id": 26,
@@ -323,21 +96,201 @@
     "destino_id": 4,
     "precio": 150000,
     "calificacion": 4,
-    "servicios": [
-      "roof garden",
-      "desayuno",
-      "gimnasio"
-    ]
+    "servicios": ["roof garden", "desayuno", "gimnasio"]
+  },
+
+  {
+    "hotel_id": 4,
+    "nombre": "Montaña Real",
+    "destino_id": 5,
+    "precio": 95000,
+    "calificacion": 4,
+    "servicios": ["wifi", "pileta"]
   },
   {
-    "hotel_id": 27,
-    "nombre": "Hotel Italia",
-    "destino_id": 4,
-    "precio": 90000,
+    "hotel_id": 29,
+    "nombre": "Diplomatic Hotel",
+    "destino_id": 5,
+    "precio": 145000,
+    "calificacion": 5,
+    "servicios": ["spa", "piscina exterior", "gourmet"]
+  },
+  
+  {
+    "hotel_id": 12,
+    "nombre": "Hotel del Fin",
+    "destino_id": 6,
+    "precio": 115000,
+    "calificacion": 4,
+    "servicios": ["wifi", "desayuno", "vista al canal"]
+  },
+  {
+    "hotel_id": 22,
+    "nombre": "Arakur Ushuaia Resort",
+    "destino_id": 6,
+    "precio": 220000,
+    "calificacion": 5,
+    "servicios": ["spa", "pileta infinity", "vistas panorámicas"]
+  },
+  {
+    "hotel_id": 24,
+    "nombre": "Cilene del Fuego Suites",
+    "destino_id": 6,
+    "precio": 145000,
+    "calificacion": 4,
+    "servicios": ["suites con cocina", "gimnasio", "jacuzzi"]
+  },
+
+  {
+    "hotel_id": 7,
+    "nombre": "Cataratas Palace",
+    "destino_id": 7,
+    "precio": 110000,
+    "calificacion": 4,
+    "servicios": ["wifi", "pileta", "desayuno"]
+  },
+  {
+    "hotel_id": 30,
+    "nombre": "Gran Melia Iguazú",
+    "destino_id": 7,
+    "precio": 250000,
+    "calificacion": 5,
+    "servicios": ["vista a cataratas", "spa", "pileta"]
+  },
+
+  {
+    "hotel_id": 3,
+    "nombre": "Altos del Norte",
+    "destino_id": 8,
+    "precio": 60000,
     "calificacion": 3,
-    "servicios": [
-      "wifi",
-      "desayuno"
-    ]
+    "servicios": ["wifi"]
+  },
+  {
+    "hotel_id": 31,
+    "nombre": "Hotel de la Merced",
+    "destino_id": 8,
+    "precio": 90000,
+    "calificacion": 4,
+    "servicios": ["wifi", "desayuno", "estacionamiento"]
+  },
+
+  {
+    "hotel_id": 8,
+    "nombre": "Playa Sol",
+    "destino_id": 9,
+    "precio": 135000,
+    "calificacion": 4,
+    "servicios": ["wifi", "frente al mar"]
+  },
+  {
+    "hotel_id": 32,
+    "nombre": "Copacabana Palace",
+    "destino_id": 9,
+    "precio": 280000,
+    "calificacion": 5,
+    "servicios": ["playa privada", "spa", "gourmet"]
+  },
+
+  {
+    "hotel_id": 9,
+    "nombre": "Resort Coral",
+    "destino_id": 10,
+    "precio": 250000,
+    "calificacion": 5,
+    "servicios": ["todo incluido", "playa privada"]
+  },
+  {
+    "hotel_id": 33,
+    "nombre": "Hotel Excellence",
+    "destino_id": 10,
+    "precio": 350000,
+    "calificacion": 5,
+    "servicios": ["todo incluido", "solo adultos", "varios restaurantes"]
+  },
+
+  {
+    "hotel_id": 6,
+    "nombre": "Glaciares Sur",
+    "destino_id": 11,
+    "precio": 140000,
+    "calificacion": 5,
+    "servicios": ["wifi", "spa", "bar"]
+  },
+  {
+    "hotel_id": 34,
+    "nombre": "Posada Los Álamos",
+    "destino_id": 11,
+    "precio": 110000,
+    "calificacion": 4,
+    "servicios": ["wifi", "desayuno", "vista al lago"]
+  },
+
+  {
+    "hotel_id": 15,
+    "nombre": "Andes View",
+    "destino_id": 12,
+    "precio": 88000,
+    "calificacion": 4,
+    "servicios": ["wifi", "gimnasio"]
+  },
+  {
+    "hotel_id": 35,
+    "nombre": "Hotel Cumbres",
+    "destino_id": 12,
+    "precio": 130000,
+    "calificacion": 5,
+    "servicios": ["roof top", "gourmet", "spa"]
+  },
+
+  {
+    "hotel_id": 36,
+    "nombre": "The Plaza Hotel",
+    "destino_id": 13,
+    "precio": 550000,
+    "calificacion": 5,
+    "servicios": ["mayordomo", "servicio de limusina", "gourmet"]
+  },
+  {
+    "hotel_id": 37,
+    "nombre": "Hotel Times Square",
+    "destino_id": 13,
+    "precio": 280000,
+    "calificacion": 4,
+    "servicios": ["wifi", "cercano a atracciones", "gimnasio"]
+  },
+
+  {
+    "hotel_id": 5,
+    "nombre": "Estancia Colonial",
+    "destino_id": 14,
+    "precio": 70000,
+    "calificacion": 4,
+    "servicios": ["wifi", "desayuno"]
+  },
+  {
+    "hotel_id": 38,
+    "nombre": "Hotel Garden Park",
+    "destino_id": 14,
+    "precio": 95000,
+    "calificacion": 4,
+    "servicios": ["pileta", "restaurante", "jardín"]
+  },
+
+    {
+    "hotel_id": 14,
+    "nombre": "Hotel Mar",
+    "destino_id": 15,
+    "precio": 75000,
+    "calificacion": 3,
+    "servicios": ["wifi", "desayuno"]
+  },
+  {
+    "hotel_id": 39,
+    "nombre": "Gran Hotel Provincial",
+    "destino_id": 15,
+    "precio": 110000,
+    "calificacion": 4,
+    "servicios": ["frente al mar", "spa", "casino"]
   }
 ]
